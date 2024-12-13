@@ -10,6 +10,7 @@
 - Fix internal deprecations in Doctrine's populator by @gnutix in (#889)
 - Fix mobile phone number pattern for France by @ker0x in (#859)
 - PHP 8.4 Support by @Jubeki in (#904)
+- Add missing return type in annotations (#923)
 
 - Added support for PHP 8.4 (#904)
 
